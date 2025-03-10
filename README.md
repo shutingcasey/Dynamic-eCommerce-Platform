@@ -1,8 +1,8 @@
 # Dynamic eCommerce Platform
 
 ## 🌟 Project Overview
- This project is a **dynamic eCommerce platform** that provides **user authentication, product management, shopping cart, order processing, and payment integration** 
- Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, CSS, JavaScript, AJAX, jQuery**.
+- This project is a **dynamic eCommerce platform** that provides **user authentication, product management, shopping cart, order processing, and payment integration** 
+- Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, CSS, JavaScript, AJAX, jQuery**.
 
 
 ## 🚀 Tech Stack
