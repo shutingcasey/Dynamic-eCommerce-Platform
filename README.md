@@ -5,7 +5,7 @@ This project is an **online hot spring resort system** that provides **member re
 Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, CSS, JavaScript, AJAX, jQuery**.
 
 ## 🚀 Tech Stack
-- **Frontend**: JSP (JavaServer Pages), HTML5, CSS3, jQuery, AJAX, RWD
+- **Frontend**: JSP (JavaServer Pages), HTML5, CSS3, JavaScript, jQuery, AJAX, RWD
 - **Backend**: Java (Spring Boot, Hibernate, JDBC, Servlet, JSP)
 - **Database**: MySQL (RDB), NoSQL
 - **Cloud Services**: Google Cloud Platform (GCP), AWS
