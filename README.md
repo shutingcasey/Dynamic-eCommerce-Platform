@@ -20,7 +20,7 @@ Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, 
 
 ## 👨‍💻 My Contributions
 
-- **Frontend Development (JSP)**:  
+- **Frontend Development (HTML5, CSS3, JavaScript, jQuery, AJAX, RWD)**:  
   - Developed the **souvenir e-commerce platform**, including:  
     - **Browsing the marketplace**  
     - **Shopping cart functionality**  
