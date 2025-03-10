@@ -1,8 +1,8 @@
-# LuxuryResortBooking
+# Dynamic eCommerce Platform
 
 ## 🌟 Project Overview
-This project is an **online hot spring resort system** that provides **member registration, room booking management, shopping cart, room management, and customer support system**.  
-Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, CSS, JavaScript, AJAX, jQuery**.
+This project is a **dynamic eCommerce platform** that provides **user authentication, product management, shopping cart, order processing, and payment integration**. Developed by an **8-member team** using **Java (Spring Boot, JSP), MySQL, HTML, CSS, JavaScript, AJAX, jQuery**.
+
 
 ## 🚀 Tech Stack
 - **Frontend**: JSP (JavaServer Pages), HTML5, CSS3, JavaScript, jQuery, AJAX, RWD
@@ -12,25 +12,24 @@ Developed by a **8-member team**, using **Java (Spring Boot, JSP), MySQL, HTML, 
 - **Development Tools**: Git, Agile Development Process
 
 ## 🔥 Key Features
-- 🏨 **Room Booking System**: Users can browse available rooms, book reservations, make payments, and manage their bookings.
-- 🎫 **Event Registration**: Users can sign up for hotel activities and check the latest announcements.
-- 🛍️ **Shopping & Payments**: Users can purchase souvenirs and meals, checkout, and track their orders.
-- 🔧 **Admin Management**: Manage rooms, employees, orders, and users.
-- 📞 **Customer Support**: Live chat and support ticket management.
+- 🛍️ **E-Commerce Platform**: Users can browse products, add items to the cart, and checkout securely.
+- 📦 **Order Management**: Users can view order history, track shipments, and manage returns.
+- 💳 **Payment System**: Integrated online payments for a seamless shopping experience.
+- 🔧 **Admin Dashboard**: Manage products, orders, customers, and sales reports.
+- 📞 **Customer Support**: Live chat and support ticket system for customer inquiries.
 
 ## 👨‍💻 My Contributions
+### **Frontend Development (HTML5, CSS3, JavaScript, jQuery, AJAX, RWD)**
+- Developed the **product marketplace** with dynamic filtering and sorting.
+- Implemented **shopping cart functionality**, including item quantity updates and price calculations.
+- Designed the **order management page**, allowing users to track and manage their purchases.
+- Developed the **About Us** page with interactive content.
+- Created the **media coverage** section for latest news and updates.
 
-- **Frontend Development (HTML5, CSS3, JavaScript, jQuery, AJAX, RWD)**:  
-  - Developed the **souvenir e-commerce platform**, including:  
-    - **Browsing the marketplace**  
-    - **Shopping cart functionality**  
-    - **Order management system**  
-  - Implemented the **"About Tamago"** section  
-  - Developed the **media coverage page**  
-
-- **Backend Development (Java, JSP, MySQL)**:  
-  - Developed the **souvenir management system** for administrators  
-  - Implemented **media coverage management system** for content updates  
+### **Backend Development (Java, JSP, MySQL)**
+- Built the **product management system** for administrators.
+- Developed the **order processing system**, handling order status updates and inventory management.
+- Implemented the **media coverage management system** for content updates.
 
 
 ## 📽️ Demo Video
